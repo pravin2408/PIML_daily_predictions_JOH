@@ -1,2 +1,2 @@
-# PIML_daily_predictions_WRR
+# PIML_daily_predictions_JOH
 The Physics Informed Machine Learning (PIML) model at daily timestep is developed for lumped structures, semi-distributed structure with reservoir, and semi-distributed structure without reservoir. It can be used for predictions of intermediate (actual evapotranspiration, reservoir storage, reservoir release) as well as target variables (streamflow). Datasets required for model training and testing are daily precipitation, soil moisture, groundwater storage, actual evapotranspiration, potential evapotranspiration, and streamflow. This model consists of Machine Learning (ML) algorithm layers based on model structure (for example, lumped PIML structure includes three layers of ML algorithm).
